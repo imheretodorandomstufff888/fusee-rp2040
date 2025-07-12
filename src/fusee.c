@@ -6,7 +6,7 @@
 #include "bin/hekate_ctcaer_5.8.0.hex"
 #include "bin/intermezzo.hex"
 
-#define LED_PIN 13
+#define LED_PIN 25
 
 #define USB_VID 0x0955
 #define USB_PID 0x7321
